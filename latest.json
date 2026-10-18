@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "build": 201,
+  "build": 202,
   "url": "https://www.icloud.com/shortcuts/55f9515e4511479c80ebb7a45c4ae2f1",
   "notes": "Fixed 30-day birthday reminder scheduling, improved menu navigation, and removed unused age calculations."
 }
