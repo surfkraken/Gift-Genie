@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "build": 201,
-  "url": "https://www.icloud.com/shortcuts/b48f0aa72a454d4f991710b025ec9a7c",
-  "notes": "Gift Genie v2.0, Build 201. Includes auto-updates, GitHub and About menus, and improved gift review."
+  "version": "2.1",
+  "build": 202,
+  "url": "https://www.icloud.com/shortcuts/ac771badd1694b3b8bd479c360ac232d",
+  "notes": "Fixed 30-day birthday reminder scheduling, improved menu navigation, and removed unused age calculations."
 }
