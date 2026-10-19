@@ -2,6 +2,10 @@
 
 Never forget a birthday. Never lose a gift idea.
 
+📱 Requires iOS 27 or later
+
+Gift Genie was built using Apple Shortcuts on iOS 27 and is not backward-compatible with earlier iOS versions.
+
 Gift Genie is a free Apple Shortcut that tracks birthdays, saves gift ideas, and reminds you when it’s time to start shopping.
 
 No subscriptions. No separate app. Just Apple Shortcuts, Notes, and Reminders.
@@ -23,9 +27,7 @@ No subscriptions. No separate app. Just Apple Shortcuts, Notes, and Reminders.
 
 Download Gift Genie v3.0
 
-Recommended: iPhone running iOS 27.
-
-1. Open the download link on your iPhone.
+1. Open the download link on your iPhone running iOS 27 or later.
 2. Tap Add Shortcut.
 3. Run Gift Genie and follow the prompts.
 
