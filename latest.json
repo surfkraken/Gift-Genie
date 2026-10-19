@@ -1,7 +1,6 @@
-
 {
-  "version": "2.1",
-  "build": 202,
-  "url": "https://www.icloud.com/shortcuts/3f40d58d4988450a89a5019c8f90b099",
-  "notes": "Fixed birthday reminder scheduling, improved menu navigation, and corrected the automatic update checker."
+  "version": "3.0",
+  "build": 300,
+  "url": "https://www.icloud.com/shortcuts/12626d53fb1c4da7a748889d83f6022f",
+  "notes": "Added gift idea lookup by person, improved empty-results messaging, and updated gift list display."
 }
